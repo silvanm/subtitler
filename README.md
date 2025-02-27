@@ -151,29 +151,13 @@ subtitler examples/your_video.mp4
 
 Below is a demonstration of the subtitler tool in action:
 
-<!-- You can embed a video in your README.md using one of these methods: -->
+### Original Video
+![Original Video](./examples/gifs/example_short.gif)
 
-<!-- Method 1: Link to a video file in your repository (if small enough) -->
-<!-- 
-[Watch the demo video](./demo/demo.mp4)
--->
+### Video with English Subtitles
+![Video with English Subtitles](./examples/gifs/example_short_subtitled.gif)
 
-<!-- Method 2: Embed a GIF -->
-<!-- 
-![Demo GIF](./demo/demo.gif)
--->
-
-<!-- Method 3: Embed a video using HTML (GitHub supports this) -->
-<!-- 
-<video src="./demo/demo.mp4" controls title="Subtitler Demo" width="640"></video>
--->
-
-<!-- Method 4: Link to YouTube or other video platforms -->
-<!-- 
-[![Subtitler Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
-
-<!-- Uncomment one of the above methods and replace with your actual video content -->
+The tool automatically extracts audio from the video, transcribes and translates it to English using Whisper, and then embeds the subtitles back into the video.
 
 ## License
 
