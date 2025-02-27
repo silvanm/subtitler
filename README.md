@@ -152,10 +152,10 @@ subtitler examples/your_video.mp4
 Below is a demonstration of the subtitler tool in action:
 
 ### Original Video
-![Original Video](./examples/gifs/example_short.gif)
+![Original Video](./examples/gifs/example_short_small.gif)
 
 ### Video with English Subtitles
-![Video with English Subtitles](./examples/gifs/example_short_subtitled.gif)
+![Video with English Subtitles](./examples/gifs/example_short_subtitled_small.gif)
 
 The tool automatically extracts audio from the video, transcribes and translates it to English using Whisper, and then embeds the subtitles back into the video.
 
