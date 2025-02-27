@@ -140,22 +140,40 @@ subtitler video.mp4 -k
 
 ## Examples
 
-The `examples` directory contains sample videos you can use to test the tool:
+The `examples` directory is intended for sample videos you can use to test the tool. Due to their size, example videos are not included in the repository, but you can add your own video files for testing.
 
 ```bash
 # Process an example video
-subtitler examples/example_short.mp4
+subtitler examples/your_video.mp4
 ```
 
-## Contributing
+## Demo
 
-Contributions are welcome! Here's how you can contribute:
+Below is a demonstration of the subtitler tool in action:
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
+<!-- You can embed a video in your README.md using one of these methods: -->
+
+<!-- Method 1: Link to a video file in your repository (if small enough) -->
+<!-- 
+[Watch the demo video](./demo/demo.mp4)
+-->
+
+<!-- Method 2: Embed a GIF -->
+<!-- 
+![Demo GIF](./demo/demo.gif)
+-->
+
+<!-- Method 3: Embed a video using HTML (GitHub supports this) -->
+<!-- 
+<video src="./demo/demo.mp4" controls title="Subtitler Demo" width="640"></video>
+-->
+
+<!-- Method 4: Link to YouTube or other video platforms -->
+<!-- 
+[![Subtitler Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+-->
+
+<!-- Uncomment one of the above methods and replace with your actual video content -->
 
 ## License
 
