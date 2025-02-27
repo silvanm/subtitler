@@ -26,7 +26,7 @@ A command-line tool that adds English subtitles to videos with non-English audio
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/subtitler.git
+   git clone https://github.com/silvanm/subtitler.git
    cd subtitler
    ```
 
@@ -161,7 +161,7 @@ Contributions are welcome! Here's how you can contribute:
 
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 silvanm
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
